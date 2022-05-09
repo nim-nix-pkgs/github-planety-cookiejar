@@ -6,7 +6,7 @@
   "tags": [],
   "url": "https://github.com/planety/cookiejar",
   "refs": [
-    "fatal: expected flush after ref listing",
+    "fatal: unable to access 'https://github.com/planety/cookiejar/': Couldn't connect to server",
     ""
   ],
   "heads": []
