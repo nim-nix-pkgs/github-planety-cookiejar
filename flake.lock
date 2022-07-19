@@ -114,11 +114,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1658031895,
-        "narHash": "sha256-ezO5hiUry9kGxwuZ/FboXamkoydmco53Ph1MnSzkqMQ=",
+        "lastModified": 1658201446,
+        "narHash": "sha256-ISacI8IZwWO4Y++CfLGj4s86di6PySTEbEJIIfRkQNQ=",
         "owner": "nim-nix-pkgs",
         "repo": "github-planety-cookiejar",
-        "rev": "e06ad2818c0e3bf8efdb59496c98e3945e64b0ac",
+        "rev": "2fad2d6bb602a9d937d9955b97f4aa351d4e7ece",
         "type": "github"
       },
       "original": {
